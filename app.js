@@ -1,5 +1,5 @@
 
-let api_key = "AIzaSyAYEMkWPFi0X6Aq4oO_SPEf3NJSMGYZv7A";
+let api_key = "<<insert_api_key>>";
 
 let video_http = "https://www.googleapis.com/youtube/v3/videos?";
 let channel_http = "https://www.googleapis.com/youtube/v3/channels?";
